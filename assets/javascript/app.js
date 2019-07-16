@@ -165,7 +165,7 @@ $(document).ready(function() {
         answer:{
             a: 'Elgin Baylor',
             b: 'Kobe Bryant',
-            c: 'Jerry Wesy',
+            c: 'Jerry West',
             d: 'Steph Curry'
             
              },
